@@ -6,6 +6,4 @@
 
 🔥 [artemis.pages.dev](https://artemis.pages.dev)
 
-🔥 [artemis.pages.dev](https://artemis.pages.dev)
-
-🔥 [huzunluartemis@gitlab](https://gitlab.com/huzunluartemis)
+🔥 [huzunluartemis gitlab](https://gitlab.com/huzunluartemis)
